@@ -1,0 +1,3 @@
+manzana:rojo
+pera:verde
+uva:morada

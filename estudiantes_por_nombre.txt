@@ -1,0 +1,10 @@
+Ashley:4.3
+Christopher:4.9
+David:4.5
+Emily:3.9
+Jessica:4.7
+John:4.2
+Mary:3.8
+Matthew:3.6
+Michael:4.1
+Sarah:4.0

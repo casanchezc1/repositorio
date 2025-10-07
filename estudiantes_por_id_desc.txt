@@ -1,0 +1,10 @@
+Christopher:4.9:89012
+Matthew:3.6:78901
+Ashley:4.3:67890
+Jessica:4.7:56789
+Emily:3.9:45678
+David:4.5:37653
+John:4.2:34567
+Mary:3.8:23456
+Michael:4.1:12345
+Sarah:4.0:01234

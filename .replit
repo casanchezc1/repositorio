@@ -1,0 +1,9 @@
+run = ["echo", "View the Markdown preview tab on the right"]
+
+hidden = ["work", "img"]
+
+[nix]
+channel = "stable-22_11"
+
+[agent]
+expertMode = true
